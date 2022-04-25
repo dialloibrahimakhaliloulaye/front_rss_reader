@@ -42,5 +42,5 @@ Pour le frontend, c'est le framework Angular qui a été exigé
 * Taper "npm install"
 * Ensuite taper "ng serve"
 
-#### Lien code frontend
+#### Lien code backend
 [code backend](https://github.com/dialloibrahimakhaliloulaye/back_rss_reader)
